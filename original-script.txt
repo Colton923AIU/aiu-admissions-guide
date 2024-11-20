@@ -1,0 +1,1744 @@
+▼▼▼▼▼▼▼▼#MAINSTART:▼▼▼▼▼▼▼▼
+
+#H: Introduction
+
+Verify that express written consent is on file in IMS.
+
+#IF:
+
+You must read this section:
+
+Hi (prospective student name). My name is (First and Last name), National Admissions Advisor from American InterContinental University.
+
+We're speaking on a recorded line.
+
+Just in case we get disconnected, my number is (provide direct line).
+
+#RENTHIDE:
+
+I'm here to help provide information about the university. I want to learn about you so we can focus the conversation on the information you need.
+
+#RENTHIDEEND
+
+#RENT:
+
+I see that you were enrolled into a program at AIU and noticed that you were unable to complete your degree.
+
+If you're looking to return to the university, it's my role to facilitate that process and discuss your options.
+
+#RENTEND
+
+#IFEND
+
+#EX:
+
+DNC and ADA Reminders ▼
+
+#IF:
+
+If an individual requests to be place on the Do Not Call list or it is clear the individual would like calls to stop (irate, angry, or expresses frustration because they are receiving calls) ensure they are placed on DNC.
+
+(Name) please excuse this call. I will have your phone number removed from the calling list. Please be aware that it may take up to 5 days to implement your request within our system. Can I please confirm the number you would like placed on do not call?
+
+If the individual's name or phone number cannot be confirmed or is not in the system, submit a DNC Complaints email
+
+#IFEND
+
+#IF:
+
+If the prospective student discloses that they have a disability AND asks if we provide reasonable accommodations. provide the following email address: aneeds@aiuniv.edu. Do Not ask the prospective student if they need special accommodations or ask questions about their disability.
+#IFEND
+
+#EXEND
+
+#EX:
+
+Code of Conduct Reminders ▼
+
+You may be in violation of AIU's conduct policy, and I ask that you please refrain from speaking to me in that manner. I'm here to help you pursue your educational goals, and it is important that we speak to each other in a respectful and professional manner. Would you like to continue our conversation?
+
+If yes, move on with the conversation.
+
+If no, thank them and end the call.
+
+#EXEND
+
+#EX:
+
+If a referral ▼
+
+I was speaking with (name of the person who provided the referral) and they indicated that you might be interested in pursuing additional education.
+
+Do you or your spouse have any military experience or an affiliation with the Department of Defense?
+
+#IF:
+
+If yes
+
+Are you okay moving forward with this conversation?
+
+If okay, send the EWC email and continue with the call.
+
+If not okay, thank them for their time and end the call. Add them to the DNC List and unsubscribe their email.
+
+#IFEND
+
+#EXEND
+
+#IF:
+
+If the prospective student lives in Massachusetts, New York, the European Union, China or certain foreign countries:
+
+Click here for a list of European Union Countries
+
+The University is not accepting new applications from (Massachusetts, New York, the European Union, China or certain foreign countries) residents.
+
+#IFEND
+
+#RENTHIDE:
+
+Before we begin, let me ask you a few quick questions to make sure you've reached the right person.
+
+Do you or your spouse have any military experience?
+
+#RENTHIDEEND
+
+#RENT:
+
+#H: Recommitment
+
+I see you were working towards a (program & specialization) from (dates when student attended).
+
+What did you like about that program?
+
+Is that the same program you would like to return to?
+
+What caused you to have to withdraw from your program?
+
+Empathize with the prospective student, ask questions to find out about their situation.
+
+#RENTEND
+
+#H: Interview
+
+What do you hope to accomplish by furthering your education?
+
+What are your career and personal goals?
+
+What is your goal upon graduating?
+
+Where do you work?
+
+Tell me about your work experience.
+
+#MIL:
+
+Tell me about your MOS, Rating, or Specialty.
+
+#IF:
+
+If active duty:
+
+Where are you currently stationed?
+
+Are you aware of any upcoming trainings or deployments?
+
+Will you PCS any time soon?
+
+#IFEND
+
+#IF:
+
+If veteran:
+
+How long did you serve?
+
+#IFEND
+
+#MILEND
+
+#RENTHIDE:
+
+What type of help or support do you think you'll need in college?
+
+What is your educational background?
+
+Explore all prior colleges and schools.
+
+#RENTHIDEEND
+
+#RENT:
+
+Do you have any new college experience since attending AIU?
+
+Did you find anything challenging about the online environment at AIU?
+
+What can we do differently this time around to better support you?f
+
+#RENTEND
+
+#ON
+
+#H: AIU Mobile
+
+Although you'll also need regular access to a computer and internet, many of our students access their classes from their mobile device. I encourage you to download our free AIU Mobile app, which enables you to fit education into your already busy life. From the app you can:
+
+Upload important documents
+
+Get important notifications about starting school
+
+Contact your Admissions Advisor with one tap
+
+Access AIUReady
+
+Get early access to view assignments
+
+#H: Computer and Internet
+
+While the mobile app is very convenient, you still need access to a reliable computer with internet to complete your degree program. Do you have computer and internet access?
+
+#IF:
+
+If the prospective student does not have reliable access to a computer with internet, discuss as needed to ensure there is a plan in place before classes begin.
+
+You can complete initial steps on a phone or tablet, but I want to make sure you have everything you need by the time classes begin.
+
+Will you have regular access to a desktop or laptop with internet before classes begin?
+
+Chromebook Eligibility (All students except BAcc and M.Ed)
+
+There may be an opportunity to work with our Financial Aid Department to purchase a chromebook and have it included in your Financial Aid plan. You can continue to work with Financial Aid if this is something you are interested in.
+
+#EX:
+
+BAcc and M.Ed or prospective students not interested in the Chromebook program ▼
+
+If not:
+
+What options do you have to regularly access a laptop or desktop once classes start?
+
+Are you planning to buy one before classes begin?
+
+If the prospective student is still unsure:
+
+Use 3 Keys to Problem Solving to brainstorm with the prospective student.
+
+The library is an option to get started before getting your own computer. Most libraries won't allow you to download software, so it's not a good permanent solution.
+
+Some students use a friend or family member's computer as well.
+
+Do any of these options work for you?
+
+If not:
+
+You will need regular access to a laptop or desktop once classes begin.
+
+When you talk to your Financial Aid Advisor, make sure you speak to them about any options you may have available to help you as well.
+
+#EXEND
+
+#IFEND
+
+I want to share some important information about the University. Are you able to get online now on your computer or phone so you can follow along?
+
+#IF:
+
+If so:
+
+I can give you a link to follow along. You can go to aiudemo.com/(your identifier)
+
+#IFEND
+
+#PR
+
+#H: Program Recommendation
+
+#RENT:
+
+We're going to cover a few areas of the university that might have changed since you've attended.
+
+Let's start with the programs. It looks like you were previously enrolled into the ______ program.
+
+Were you planning on returning to this program?
+
+If not, or if the program is no longer available, recommend an alternate program based on the interview.
+
+#RENTEND
+
+#RENTHIDE:
+
+Personalize the program recommendation and ask for the benefit.
+
+#RENTHIDEEND
+
+Refer to the program PDF for questions.
+
+#MAS:
+
+#IF:
+
+Master's Programs with Special Requirements:
+
+Students entering a Master's of Business Administration (MBA) without an undergraduate degree in business will be required to complete a Management Competency Assessment before starting courses. Click here to see the Course Catalog for details.
+
+#IFEND
+
+#MASEND
+
+#H: Program Length
+
+#RENT:
+
+#IF:
+
+You must read this section to a ReEntry prospective student:
+
+Based on what I have reviewed in your record, it appears you have completed (number of courses completed in CVUE).
+
+#MASHIDE:
+
+Our full-time students typically take 3 classes per 10 weeks.
+
+#MASHIDEEND
+
+#MAS:
+
+Master's students typically take 3 classes per 10 weeks.
+
+#MASEND
+
+However, Registrar Evaluation Services will determine the classes you still need to complete and finalize your degree plan. They will be able to give you a more accurate program length.
+
+#IFEND
+
+#EX:
+
+If prospective student is not re-entry ▼
+
+#MASHIDE:
+
+You must read this section:
+
+Similar to traditional universities, our (Associate’s or Bachelor’s) program is designed to be (24 or 48) months.
+
+Typically students start with 1 class for the first 5 weeks to get familiar with the online environment. Then, through the remainder of the program, students take 2 classes at a time to possibly graduate sooner.
+
+This way the program could be about:
+
+16 months for an Associates
+
+32 months for a Bachelors
+
+This is an estimate that can vary depending on credit load, transfer credit acceptance, academic breaks, and assumes students pass all their classes.
+
+#MASHIDEEND
+
+#MAS:
+
+#IF:
+
+You must read this section:
+
+If you take 3 classes every 10 weeks and pass all of your courses, the program length could be 11 months.
+
+This is an estimate that can vary depending on credit load, transfer credit acceptance, academic breaks, and assumes students pass all their classes.
+
+#IFEND
+
+#MASEND
+
+#EXEND
+
+#RENTEND
+
+#RENTHIDE:
+
+#MASHIDE:
+
+#IF:
+
+You must read this section:
+
+Similar to traditional universities, our (Associate’s or Bachelor’s) program is designed to be (24 or 48) months.
+
+Typically students start with 1 class for the first 5 weeks to get familiar with the online environment. Then, through the remainder of the program, students take 2 classes at a time to possibly graduate sooner.
+
+This way the program could be about:
+
+16 months for an Associates
+
+32 months for a Bachelors
+
+This is an estimate that can vary depending on credit load, transfer credit acceptance, academic breaks, and assumes students pass all of their classes.
+
+#IFEND
+
+#MASHIDEEND
+
+#MAS:
+
+#IF:
+
+You must read this section:
+
+If you took 3 classes every 10 weeks and passed all of your courses, the program length could be 11 months.
+
+This is an estimate that can vary depending on credit load, transfer credit acceptance, academic breaks, and assumes students pass all their classes.
+
+#IFEND
+
+#MASEND
+
+#RENTHIDEEND
+
+#MASHIDE:
+
+#H: Bachelor's Programs
+
+While enrolled in the (BBA, BAcc, BSCJ) you may be able to earn an Associate's degree along the way. The University will reach out if your degree is conferred so you can add this academic credential in job applications, resumes, and other places while still earning your Bachelor's degree.
+
+#H: AIU Accelerate®
+
+With AIU Accelerate®, you can ensure your prior experience and knowledge are considered for credit toward your degree. If you would like to have your experience evaluated for credit, I can get you to our Registrar Evaluation Services.
+
+As part of AIU Accelerate®, we also offer Challenge Exams at no additional cost. By passing these exams you could potentially take fewer classes and shorten your time to graduation.​
+
+#MASHIDEEND
+
+#TC:
+
+#H: Potential Transfer Credit
+
+Since you may be eligible for transfer credit, we can evaluate your transcripts and discuss the potential impact on your program length and cost.
+
+If you have a copy of your unofficial transcripts, send those to me. That way we can provide you with a tentative review within 48 hours. However, transfer credit is not guaranteed until the official transcripts are evaluated.​
+
+#EX:
+
+If international student ▼
+
+AIU will need a third-party evaluation of your previous education in order to determine whether or not your education level and GPA meet our admissions requirements.
+
+AIU recommends students work with Educational Perspectives, a third party evaluator approved by NACES, the National Association of Credential Evaluation Services.
+
+You can visit edperspective.org to find a NACES member organization which can evaluate your transcripts.
+
+Typically, these services are available for a fee.
+
+Because of the time it takes for an evaluation to be completed by one of the approved institutions, AIU recommends students begin the evaluation process at the time of enrollment.
+
+Once your evaluation is complete, you can upload your evaluation, fax, or email it to me
+
+#EXEND
+
+#TCEND
+
+#MIL:
+
+#H: Military Supportive
+
+Point out military speaking points on the Campus Presentation as needed.
+
+AIU policies and staff are in place to support military students.
+
+#MASHIDE:
+
+For example, our MOS Pledge Program gives you the opportunity to receive maximum academic credit for military education and training.
+
+Do you know your MOS Code?
+
+#IF:
+
+If yes:
+
+Based on your interest in the program and the MOS Code you provided, you may be awarded ____ quarter credits. MOS program credits will not be awarded until all applicable MOS codes have been confirmed by AIU’s Registrar Evaluation Services.
+
+Click here for potential quarter credits per MOS Code
+
+#IFEND
+
+#IF:
+
+If prospective student is Air Force:
+
+AIU participates in an initiative with the Community College of the Air Force that may allow you to transfer in up to 90 quarter credits, the equivalent to 60 semester credits, toward a Bachelor of Business Administration degree.
+
+AIU is not a good fit for active duty Air Force members seeking an associate's degree.
+
+#IFEND
+
+#MASHIDEEND
+
+#IF:
+
+If the prospective student is not Air Force:
+
+We will request your military transcripts for you.
+
+#IFEND
+
+#MILEND
+
+#SE
+
+#H: Graduation Teams
+
+At AIU, you will have a Graduation Team to help support you as you work towards graduation.
+
+As your Admissions Advisor, I will help support you through the enrollment process and as you prepare to start your first class. I can also answer questions about what online learning is like and what to expect from your classes.
+
+Your Financial Aid Advisor and I will work with you to ensure you understand what documents you need to complete to fund your education.
+
+Your Student Advisor, will  be your point of contact for questions after your first class until graduation.
+
+We have open communication and collaboration to help ensure you will have consistency from the time of enrollment through your program.
+
+#H: Features Checklist
+
+Based on the interview, expand the features you wish to share.
+
+#RENT:
+
+As we've discussed, the Virtual Campus may have changed or added new features since you've last attended.
+
+Tell me what you remember about the Virtual Campus or your classroom.
+
+#RENTEND
+
+#FEAT:
+
+Institutional Accreditation (You must read this section if you talk about Accreditation)
+
+You must read this section if you talk about Accreditation:
+
+AIU is a member of the American InterContinental University System, which is accredited by the Higher Learning Commission, an institutional accreditation agency recognized by the US Department of Education.
+
+Accreditation provides educational institutions with an objectively recognized standard of quality to which they must adhere.
+
+#FEND
+
+#FEAT:
+
+Programmatic Accreditation & Program Details
+
+#EX:
+
+AABA, BBA, MBA, BHCM, & MHCM ▼
+
+All programs from our School of Business are programmatically accredited by the Accreditation Council for Business Schools and Programs (ACBSP)
+
+#EXEND
+
+#EX:
+
+BBA Human Resource Management ▼
+
+Our Business Administration programs with a specialization in Human Resource Management aligns with SHRM’s (The Society for Human Resource Management) HR Curriculum Guidebook and Templates.
+
+#EXEND
+
+#MASHIDE:
+
+#EX:
+
+Bachelor Science Information Technology ▼
+
+This program is designed to explore content related to the A+, Network+, and Security+ certification exams offered by CompTIA.
+
+CompTIA certifications are industry recognized and sought after credentials within the IT industry.
+
+AIU’s programs are not designed to provide specific exam preparation, study materials, or cover the certification exam’s questions in any detail.
+
+For more information on CompTia exam preparation, please visit: certification.comptia.org/Training
+
+#EXEND
+
+#MASHIDEEND
+
+#MAS:
+
+#EX:
+
+M.Ed ▼
+
+American InterContinental University is a member in good standing of the Association for Advancing Quality in Educator Preparation (AAQEP). The Master of Education program has been awarded full accreditation by AAQEP through June 30, 2026.
+
+#EXEND
+
+#MASEND
+
+#FEND
+
+#MIL:
+
+#FEAT:
+
+Military Times Recognition
+
+Military Times surveyed hundreds of colleges and universities from across the country on their policies related to military and veteran students, academic outcomes, military-supportive cultures and other factors. AIU is proud to be named among the "Best for Vets Colleges 2020" list.
+
+#FEND
+
+#MILEND
+
+#FEAT:
+
+Intellipath®
+
+Intellipath® is our adaptive online learning platform.
+
+It determines what you already know and concentrates on what you need to learn.
+
+Professors have real-time knowledge on how each student is progressing.
+
+#FEND
+
+#FEAT:
+
+Digital Course Materials (M.U.S.E.)
+
+We provide digital course materials in a variety of formats.
+
+The different formats allow you to review some course materials in written, audio, or video formats.
+
+Some course materials are interactive, and might have you answer questions or try practice exercises.
+
+#FEND
+
+#MASHIDE:
+
+#FEAT:
+
+Masters Edge
+
+If you're interested in one of our business degrees, then our Master's Edge program allows you to take 2 master's courses while still in your bachelor's program.
+
+This might allow you to save up to 25% on the tuition of your master's degree as long as you meet all of the program requirements.
+
+Your student advisor will discuss the details further.
+
+#FEND
+
+#MASHIDEEND
+
+#FEAT:
+
+Library & Learning Center
+
+AIU provides our students with access to an online library.
+
+The library allows you to access reference materials and research for your assignments 24/7.
+
+The AIU Learning Center allows access to Learning Labs, and tutoring services.
+
+The Labs function like classes; they cover different subjects and even offer practice assignments.
+
+Our tutoring service can provide feedback about your writing and you can use drop in tutoring during the live tutor hours.
+
+#FEND
+
+#SS
+
+#H: Educational Alliance
+
+Click here to look up Ed Alliance status
+
+#IF:
+
+If Ed Alliance Member Not Impact Grant Eligible:
+
+Because of your affiliation with (company name) you may be eligible to receive a _____% grant.
+
+#IFEND
+
+#EX:
+
+If Ed Alliance Member Impact Grant Eligible ▼
+
+The Impact Grant is an educational alliance between your Employer, (company name) and AIU. The Impact Grant,  along with (company name) tuition assistance benefits can cover 100% of your direct education-related costs associated with your program of study at AIU as long as you remain eligible to participate in the program. The tuition assistance is charged on a per session basis. The session amount is $_____. According to our agreement with (company name), your employer tuition assistance program is set up as (directbill/reimbursement/deferred billing reimbursement).
+
+Financial Aid will cover this in more detail, but I can give you an overview of the billing process.
+
+Verify Eligibility
+
+Verify if they are eligible for the full amount of Tuition Assistance ($5,250). If they are not currently eligible for the full amount of TA, but wish to participate in the Impact Grant, proceed with enrollment into a future date once they become eligible for the full amount.
+
+#H: Direct Bill/Third Party Tuition Provider
+
+#IF2:
+
+Direct Bill
+
+ With direct bill you may be required to apply for TA each session through your employer or third-party tuition provider. Your Financial Aid Advisor will go over the approval process required by AIU for your employer.
+
+#IF2END
+
+#IF2:
+
+Third Party Tuition Provider
+
+Once you apply and are approved, you will receive a voucher or Letter of Credit that can be uploaded to your document center each session to serve as proof that you remain eligible and allows your tuition for that session to be covered by the Impact Grant.
+
+#IF2END
+
+#H: Tuition Reimbursement
+
+You will be required to apply for TA each session through your employer or third party tuition provider. This will require you to place a credit card on file with our Student Accounts department and sign a student payment agreement to set up the recurring payment of (insert per session amount) per session. You will also need to provide proof of employment, such as a current pay stub dated within 45 days of the session start date.
+
+The remainder of your tuition each session may be covered by AIU through the Impact Grant for as long as you remain eligible.
+
+#IF2:
+
+If Tuition Reimbursement without deferred billing:
+
+Your employer requires a paid receipt for each class in order for you to get reimbursed.
+
+#IF2END
+
+#IF2:
+
+If Deferred Billing Reimbursement:
+
+Once your grades have posted, you should have all required documents to provide to your employer to submit for reimbursement. You will be charged (insert per session amount) 25 days after the session ends. Your employer may reimburse you prior to you paying AIU.
+
+#IF2END
+
+#EXEND
+
+#H: Start Date
+
+Give the start date
+
+#H: Financial Aid Process
+
+Financial Aid is available for those who apply and qualify. Your Financial Aid Advisor is here to assist you through the process.
+
+How familiar are you with financial aid as it relates to college?
+
+#MIL:
+
+How familiar are you with your military benefits?
+
+Do you plan on using your military benefits to help with the cost of your education?
+
+#MILEND
+
+Let me cover some basic details so you know how it works here.
+
+#EX:
+
+If the prospective student is not a U.S. citizen or legal permanent resident (international) ▼
+
+When you are enrolled at AIU, you will work with our Financial Aid and Student Accounts departments to help you set up a payment plan. Federal Student Aid is only available for U.S. citizens and permanent residents who qualify. Do you think you'll qualify?
+
+#IF:
+
+If not:
+
+Are you in the U.S. on a visa? If so, what type?
+
+AIU Online cannot assist F1 visa students. Ask the prospective student if they would like to speak with someone from our ground campuses.
+
+We will need you to provide us with proof of legal residency in the U.S. You can do this by providing us with a copy of your work visa.
+
+#IFEND
+
+#IF:
+
+If the prospective student is not in the U.S.:
+
+We will need you to confirm the country to which you're a citizen. To do this, please send us a copy of your passport.
+
+#IFEND
+
+Click here to review the price ranges for international students.
+
+The total tuition cost is ______ in U.S. dollars. There is also a $220 Technology Fee per term and a one-time $150 Graduation Fee.
+
+Our Financial Aid department will divide that cost by the number of months you are in school to determine your monthly payment.
+
+ The monthly payment ranges from (lowest price) to (highest price) based on the number of classes you're taking.
+
+#EXEND
+
+#MIL:
+
+#EX:
+
+If active / reserve / national guard military ▼
+
+If you plan to use military benefits, speak with your Educational Services Officer today.
+
+If Financial Aid is not available to cover TA Exemption:
+
+Eligible students actively serving in the military may utilize Tuition Assistance to pay for education charges. Are you planning to use Tuition Assistance?
+
+#IF2:
+
+Yes:
+
+Based on your expected start date and Tuition Assistance processing times, there is a possibility you may not be able to request Tuition Assistance for the first session. However, you may be able to request it starting with your second session.
+
+Your Financial Aid Advisor will be able to discuss potential alternative funding options tomorrow. These could be Federal Aid, out of pocket, personal loans, and GI Bill®, if eligible.  
+
+I want to make sure you talk to Financial Aid as soon as possible, so I will introduce you tomorrow. It will be really important to get this process moving forward as quickly as possible.
+
+#IF2END
+
+#IF2:
+
+No:
+
+What funding options do you plan to use?
+
+You will need to speak with your Financial Aid Advisor tomorrow to set up your funding options and discuss your potential eligibility.
+
+#IF2END
+
+If student decides not to move forward with current start, recommend the next start date.
+
+#EXEND
+
+#EX:
+
+If veteran military ▼
+
+If you plan to use military benefits, speak with the VA today.
+
+As a veteran, you may be eligible for the Yellow Ribbon Grant or up to $1500 toward your program tuition costs through the AIU Veteran's Grant. Our Financial Aid department can discuss your eligibility.
+
+#EXEND
+
+You'll want to discuss the financial aid process and the military benefits you plan on using with our Financial Aid department.
+
+#EX:
+
+If spouse of active duty service member ▼
+
+Because you said you are the spouse of an active duty service member, you may be eligible for the Yellow Ribbon Grant or a 10% Military Spouse Grant. Our Financial Aid department can discuss your eligibility.
+
+#EXEND
+
+#MILEND
+
+#RENT:
+
+Did you complete a Free Application for Federal Student Aid, or FAFSA, when you enrolled at AIU previously?
+
+If so, for which year?
+
+#IF:
+
+If completed for the current award year:
+
+Did you add the AIU school code to the FAFSA when you completed it previously?
+
+#IFEND
+
+#EX:
+
+If current FAFSA is not on file ▼
+
+Are you planning to use any federal aid to fund your program?
+
+I’ll show you where to get started on the Free Application for Federal Student Aid or FAFSA. That’s the document that the Federal Government uses to determine your eligibility for different types of federal aid. 
+
+Once your FAFSA has been received, FA will review your options.
+
+#MILHIDE:
+
+#IF
+
+You must read the remainder of this section to the prospective student.
+
+Your financial aid options may include the following:
+
+#MASHIDE:
+
+Federal grants. This is money that you don't have to pay back, but not everyone receives grants.
+
+#MASHIDEEND
+
+Federal loans. Federal loan eligibility is determined by several factors and may vary. These must be paid back whether you graduate or not.
+
+#IFEND
+
+Alternative financing options. This would include any tuition reimbursement or payment plan.
+
+#MILHIDEEND
+
+#EXEND
+
+#MIL:
+
+#MASHIDE:
+
+#IF:
+
+If veteran, you must read this section
+
+Most of our students qualify for some type of financial aid to apply towards the cost of tuition. If you do not qualify for full financial aid, you may be eligible to earn an institutional grant to help offset your out-of-pocket costs.
+
+#IFEND
+
+#MASHIDEEND
+
+#MILEND
+
+#MILHIDE:
+
+#MASHIDE:
+
+#IF:
+
+You must read this section
+
+Most of our students qualify for some type of financial aid to apply towards the cost of tuition. If you do not qualify for full financial aid, you may be eligible to earn an institutional grant to help offset your out-of-pocket costs.
+
+#IFEND
+
+#MASHIDEEND
+
+#MILHIDEEND
+
+#RENTEND
+
+#RENTHIDE:
+
+Are you planning to use any federal aid to fund your program?
+
+I’ll show you where to get started on the Free Application for Federal Student Aid or FAFSA. That’s the document that the Federal Government uses to determine your eligibility for different types of federal aid. 
+
+Once your FAFSA has been received, FA will review your options.
+
+#MIL:
+
+#MASHIDE:
+
+#IF:
+
+If veteran, you must read this section
+
+Most of our students qualify for some type of financial aid to apply towards the cost of tuition. If you do not qualify for full financial aid, you may be eligible to earn an institutional grant to help offset your out-of-pocket costs.
+
+#IFEND
+
+#MASHIDEEND
+
+#MILEND
+
+#MILHIDE:
+
+#IF:
+
+You must read this section.
+
+Your financial aid options may include the following:
+
+#MASHIDE:
+
+Federal grants. This is money that you don't have to pay back, but not everyone receives grants.
+
+#MASHIDEEND
+
+Federal loans. Federal loan eligibility is determined by several factors and may vary. These must be paid back whether you graduate or not.
+
+#MASHIDE:
+
+Most of our students qualify for some type of financial aid to apply towards the cost of tuition. If you do not qualify for full financial aid, you may be eligible to earn an institutional grant to help offset your out-of-pocket costs.
+
+#MASHIDEEND
+
+#IFEND
+
+Alternative financing options. This would include any tuition reimbursement or payment plan.
+
+#MILHIDEEND​​
+
+#RENTHIDEEND
+
+#EX:
+
+If GA resident ▼
+
+As a GA resident, you may qualify for state-funded aid programs. To find out if you qualify, provide residency documents such as state ID, a copy of your state tax return, Voter Registration Card, a lease agreement, or vehicle registration to our Financial Aid department.
+
+#EXEND
+
+If the prospective student asks to speak to the Financial Aid department before enrolling, offer to transfer before completing the application.
+
+#H: Tuition and Fees
+
+#MILHIDE:
+
+Click here to review the tuition and fees.
+
+#MILHIDEEND
+
+#MIL:
+
+Click here to review the tuition and fees for active military students.
+
+Click here to review the tuition and fees for veteran & non-military students.
+
+#MILEND
+
+#
+
+#
+
+# Note: What follows is the tuition and grad date calculator language. To help make sense of it, there are two versions; non military and military. Within each of these versions, there is a non-reentry and reentry version. The non-military section comes first...
+
+#
+
+#
+
+#MILHIDE: ▼▼▼▼▼▼ NON-MIL T&GDC SECTION STARTS HERE!! ▼▼▼▼▼▼
+
+#IF:
+
+You must read this section.
+
+The total tuition cost is _____, which includes your tuition, ebook access for the duration of the course, and software.
+
+There is also a $220 Technology Fee per term and a one-time $150 Graduation Fee.
+
+#MASHIDEEND
+
+#MASHIDE: ▼▼▼▼▼▼ MASTERS HIDES ALL T&GDC
+
+#RENTHIDE: ▼▼▼▼▼▼ REENTRY HIDES THIS TRANSFER CREDIT FILTER BLOCK
+
+#TC:
+
+Because you mentioned you have potential transfer credit, I have a few questions to ask in order to estimate your potential program cost and length.
+
+Click here to access the Tuition and Graduation Date Calculator.
+
+Based on the responses you just gave me, it sounds like your potential savings could be _____.
+
+Your estimated total program cost would be _____.
+
+Your estimated graduation date would be _____.
+
+#IF2:
+
+If an Ed Alliance member:
+
+This includes a potential Educational Alliance grant of _____ %.
+
+#IF2END
+
+Of course, passing your courses, the number of courses taken at a time, acceptance of transfer credit, and academic breaks could affect your estimated graduation date.
+
+This is just an estimate based on what you have verbally shared. Transfer credit is not guaranteed until the official transcripts are evaluated.
+
+#TCEND
+
+#RENTHIDEEND ▲▲▲▲▲▲▲▲▲▲▲ END REENTRY'S HIDE
+
+#RENT: ▼▼▼▼▼▼ REENTRY SHOWS THIS UNIQUE BLOCK
+
+Because you have previously attended, Financial Aid and Registrar Evaluation Services will work together to determine what your cost will be after applying any credit you may have already completed.
+
+I can estimate what your program cost and length might be based on what you have previously completed at the university.
+
+Click here to access the Tuition and Graduation Date Calculator.
+
+Based on the responses you just gave me, it sounds like your estimated total program cost would be _____.
+
+Your estimated graduation date would be _____.
+
+#IF2:
+
+If an Ed Alliance member:
+
+This includes a potential Educational Alliance grant of _____ %.
+
+#IF2END
+
+Of course, passing your courses, the number of courses taken at a time, acceptance of transfer credit, and academic breaks could affect your estimated graduation date.
+
+This is just an estimate based on what you have verbally shared. Transfer credit is not guaranteed until the official transcripts are evaluated.
+
+#EX:
+
+If the prospective student has an account balance ▼
+
+Are you aware that there is a prior balance remaining on your account?
+
+You will need to work with student accounts and financial aid to determine your options for covering this prior balance.
+
+They can discuss the amount with you during the financial aid process.
+
+#IF2:
+
+If using the Tuition and Grad Date Calculator:
+
+It is important for you to understand that the estimated cost we've discussed is unrelated to the prior balance currently on your account.
+
+#IF2END
+
+#EXEND
+
+#RENTEND ▲▲▲▲▲▲▲▲▲▲▲ ENDS THE REENTRY BLOCK
+
+#MASHIDEEND
+
+#IFEND
+
+#MILHIDEEND ▲▲▲▲▲▲▲▲▲▲▲ ENDS THE NON-MILITARY PARENT BLOCK FOR T&GDC
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#MIL: ▼▼▼▼▼▼▼▼▼ MIL T&GDC SECTION STARTS HERE!! ▼▼▼▼▼▼▼▼▼
+
+#IF:
+
+You must read this section.
+
+#MASHIDE: ▼▼▼▼▼▼ MASTERS HIDES THIS STATEMENT
+
+#IF2:
+
+If active duty:
+
+AIU offers a 45% tuition reduction for active duty undergraduate students.
+
+The fee for your course materials will be waived because of your military status.
+
+#IF2END 
+
+#MASHIDEEND
+
+The total tuition cost is _____.
+
+#IF2:
+
+If veteran:
+
+This includes your tuition, ebook access for the duration of the course, and software.
+
+There is also a $220​ Technology Fee per term and a one-time $150 Graduation Fee.
+
+#IF2END
+
+#MASHIDE: ▼▼▼▼▼▼ MASTERS HIDES ALL T&GDC
+
+#RENTHIDE: ▼▼▼▼▼▼ REENTRY HIDES THIS TRANSFER CREDIT FILTER BLOCK
+
+#TC:
+
+Because you mentioned you have potential transfer credit, I have a few questions to ask in order to estimate your potential program cost and length.
+
+Click here to access the Tuition and Graduation Date Calculator.
+
+Based on the responses you just gave me, it sounds like your potential savings could be _____ .
+
+Your estimated total program cost would be _____.
+
+Your estimated graduation date would be _____.
+
+#IF2:
+
+If active duty:
+
+This includes a tuition reduction for being active military.
+
+#IF2END
+
+#IF2:
+
+If active military spouse:
+
+This includes a potential 10% AIU Military Spouse Grant.
+
+#IF2END
+
+#IF2:
+
+If veteran:
+
+This includes a potential $1,500 AIU Veteran's Grant.
+
+#IF2END
+
+Of course, passing your courses, the number of courses taken at a time, acceptance of transfer credit, and academic breaks could affect your estimated graduation date.
+
+This is just an estimate based on what you have verbally shared. Transfer credit is not guaranteed until the official transcripts are evaluated.
+
+#TCEND
+
+#RENTHIDEEND ▲▲▲▲▲▲▲▲▲▲▲ END REENTRY'S HIDE
+
+#RENT: ▼▼▼▼▼▼ REENTRY SHOWS THIS UNIQUE BLOCK
+
+I can estimate what your program cost and length might be based on what you have previously completed at the university.
+
+Click here to access the Tuition and Graduation Date Calculator.
+
+Based on the responses you just gave me, it sounds like your estimated total program cost would be _____.
+
+Your estimated graduation date would be _____.
+
+#IF2:
+
+If active duty:
+
+This includes a tuition reduction for being active military.
+
+#IF2END
+
+#IF2:
+
+If active military spouse:
+
+This includes a potential 10% AIU Military Spouse Grant.
+
+#IF2END
+
+#IF2:
+
+If veteran:
+
+This includes a potential $1,500 AIU Veteran's Grant.
+
+#IF2END
+
+Of course, passing your courses, the number of courses taken at a time, acceptance of transfer credit, and academic breaks could affect your estimated graduation date.
+
+This is just an estimate based on what you have verbally shared. Transfer credit is not guaranteed until the official transcripts are evaluated.
+
+#EX:
+
+If the prospective student has an account balance ▼
+
+Are you aware that there is a prior balance remaining on your account?
+
+You will need to work with student accounts and financial aid to determine your options for covering this prior balance.
+
+They can discuss the amount with you during the financial aid process.
+
+#IF2:
+
+If using the Tuition and Grad Date Calculator:
+
+It is important for you to understand that the estimated cost we've discussed is unrelated to the prior balance currently on your account.
+
+#IF2END
+
+#EXEND
+
+#RENTEND ▲▲▲▲▲▲▲▲▲▲▲ ENDS THE REENTRY BLOCK
+
+#MASHIDEEND ▲▲▲▲▲▲▲▲▲▲▲ ENDS MASTERS HIDE
+
+#IFEND
+
+#MILEND ▲▲▲▲▲▲▲▲▲▲▲ ENDS THE MILITARY T&GDC BLOCK
+
+#
+
+#
+
+#
+
+#MASHIDE:
+
+#H: Challenge Exams
+
+If you were to pass the exam we talked about earlier, your potential tuition savings could be about $1,450 per exam passed.
+
+​#MASHIDEEND
+
+Do you have any other questions?
+
+#GS
+
+#H: Conclusion
+
+#RENTHIDE:
+
+Recap the prospective student's goals and program recommendation.
+
+Now that we've discussed everything, in what ways do you feel like the university is a good fit?
+
+The next step is to complete your application.
+
+#IF:
+
+You must read this section.
+
+Before we continue, I want to share a few important university policies with you. You'll have an opportunity to read the Enrollment Agreement, which includes the University Refund Policy, the Programmatic Disclosure, and Student Disclosure forms thoroughly. You will also be asked to acknowledge these forms.
+
+AIU's academic requirements can be found in the Catalog and course requirements can be found in the materials you will receive in those courses. Having reliable access to a computer and internet are required to be successful in your program.
+
+Acceptance of transfer credit is up to the receiving institution, so no promises can be made about the transfer of credit to or from AIU.
+
+AIU cannot make promises to you about employment, salaries or career advancement.
+
+AIU reserves the right to make changes to tuition and fees at any time and notice of these changes will be communicated in the Catalog or Tuition and Fees Schedule. You are required to pay for education charges according to the terms. If your account is delinquent you may be dismissed from the University.
+
+#IFEND
+
+#H: Application Steps
+
+Let's start the application. First, access the login email that I'm sending you. It contains a link to the application and you'll need to create a password.
+
+Click here to access a list of application steps if needed.
+
+#EX:
+
+If the prospective student wants to complete the application later ▼
+
+To get started on the application, you will need to access the login email that I'm sending you. It contains a link to the application. You will need to create a password and security questions. From there, follow the steps to complete the application.
+
+Let's set the expectation to have your application completed by (time) today.
+
+I can give you a call back at (time) or (time) to review your completed application. Which works best for you?
+
+#EXEND
+
+#IF:
+
+If the prospective student completed the application with you on the phone:
+
+#MIL:
+
+#EX:
+
+If active military ▼
+
+As a reminder, the first step in the financial aid process is to speak with your education services officer if you're planning on using your military benefits for your education.
+
+#EXEND
+
+#MILEND
+
+There are some optional questions that will allow us to learn more about our student demographic. You can either complete this section or skip the page.
+
+The next page will bring you to some quick links to create an account for your Federal Student Aid ID and FAFSA and our AIU Mobile App.
+
+Let's take a few moments to download the app now.
+
+In the app store, search "AIU Mobile" and download it.
+
+You will use your Virtual Campus login credentials as your username and password. You'll receive an email with this information shortly.
+
+I recommend enabling notifications so you can receive important information and updates.
+
+Once you log in, spend some time exploring the app and if you have questions I can help you become more acquainted the next time we speak.
+
+I'm proud of you for taking the first step. From here on we'll be setting appointments so I can help you with the next steps to help you prepare for school. I'm here to walk you through the process and make sure you are comfortable navigating your classroom and prepared to begin classes. I can give you a call back to walk through what will happen next. I have time at (time) or (time). Which works best for you?
+
+#IFEND
+
+#EX:
+
+If the application states English is not the primary language ▼
+
+We will need you to provide us with proof of English proficiency.
+
+Typically, this is accomplished through testing standards such as the TOEFL, the Test of English as a Foreign Language, or the International English Language Testing system.
+
+I can email you our requirements for English proficiency testing to help you get started.
+
+Once you’ve completed the requirements, you can upload your proof of English proficiency. You can also fax or email it to me.
+
+#EXEND
+
+#RENTHIDEEND
+
+#RENT:
+
+Let's talk about next steps.
+
+Just to confirm, you will be starting classes on (date) and you are returning to the (program name and specialization).
+
+#P2:
+
+Tomorrow, you will receive an email with additional information.
+
+#P2END
+
+#P3:
+
+Since you've already completed an application for your prior enrollment, today you'll need to review the information you've entered previously. You will also need to update your student disclosures, program information, and start date to reflect the upcoming start on the (date).
+
+#IF:
+
+You must read this section.
+
+Before we continue, I want to share a few important university policies with you. You'll have an opportunity to read the Enrollment Agreement, which includes the University Refund Policy, the Programmatic Disclosure, and Student Disclosure forms thoroughly. You will also be asked to acknowledge these forms.
+
+AIU's academic requirements can be found in the Catalog and course requirements can be found in the materials you will receive in those courses. Having reliable access to a computer and internet are required to be successful in your program.
+
+Acceptance of transfer credit is up to the receiving institution, so no promises can be made about the transfer of credit to or from AIU.
+
+AIU cannot make promises to you about employment, salaries or career advancement.
+
+AIU reserves the right to make changes to tuition and fees at any time and notice of these changes will be communicated in the Catalog or Tuition and Fees Schedule. You are required to pay for education charges according to the terms. If your account is delinquent you may be dismissed from the University.
+
+#IFEND
+
+#H: Application Steps
+
+Let's start the application. First, access the login email that I'm sending you. It contains a link to the application and you'll need to create a password and security questions.
+
+Click here to access a list of application steps if needed.
+
+#EX:
+
+If the prospective student wants to complete the application later ▼
+
+To get started on the application, you will need to access the login email that I'm sending you. It contains a link to the application. You will need to create a password and security questions. From there, follow the steps to complete the application.
+
+Let's set the expectation to have your application completed by (time) today.
+
+I can give you a call back at (time) or (time) to review your completed application. Which works best for you?
+
+#EXEND
+
+#IF:
+
+If the prospective student completed the application with you on the phone:
+
+#MIL:
+
+#EX:
+
+If active military ▼
+
+As a reminder, the first step in the financial aid process is to speak with your education services officer if you're planning on using your military benefits for your education.
+
+#EXEND
+
+#MILEND
+
+There are some optional questions that will allow us to learn more about our student demographic. You can either complete this section or skip the page.
+
+The next page will bring you to some quick links to create an account for your Federal Student Aid ID and FAFSA and our AIU Mobile App.
+
+Let's take a few moments to download the app now.
+
+In the app store, search "AIU Mobile" and download it.
+
+You will use your Virtual Campus login credentials as your username and password. You'll receive an email with this information shortly.
+
+I recommend enabling notifications so you can receive important information and updates.
+
+Once you log in, spend some time exploring the app and if you have questions I can help you become more acquainted the next time we speak.
+
+I'm proud of you for taking the first step. From here on we'll be setting appointments so I can help you with the next steps to help you prepare for school. I'm here to walk you through the process and make sure you are comfortable navigating your classroom and prepared to begin classes. I can give you a call back to walk through what will happen next. I have time at (time) or (time). Which works best for you?
+
+#IFEND
+
+#EX:
+
+If the application states English is not the primary language ▼
+
+We will need you to provide us with proof of English proficiency.
+
+Typically, this is accomplished through testing standards such as the TOEFL, the Test of English as a Foreign Language, or the International English Language Testing system.
+
+I can email you our requirements for English proficiency testing to help you get started.
+
+Once you’ve completed the requirements, you can upload your proof of English proficiency. You can also fax or email it to me.
+
+#EXEND
+
+#P3END
+
+#EX:
+
+If the prospective student's SAP status reflects FA probation or FA dismissal ▼
+
+Were you aware that you left the University on a FA (probation or dismissal) status?
+
+Let me explain what this means. In order to remain in school and be eligible for federal student aid, you must maintain satisfactory academic progress, or "SAP".
+
+When you withdrew from the University, were you aware what your CGPA was at that time?
+
+This CGPA was the reason why you were placed on Academic Probation, so the next step is to apply for reinstatement to the University through our appeal process. You will need to complete a formal, written letter and submit this to our Appeals Board for review.
+
+If applicable, click here to explain Rate of Progress​
+
+I can provide guidance on what to include in your letter. In it you will let the appeals board know what circumstances led to your academic performance. They will need a detailed explanation of the unforeseen and/or serious in nature barriers or problems that caused the lack of academic success. You should also include as many details as possible about your situation at the time of the decrease in academic performance.
+
+I'm going to send you an email with instructions on how the appeal process works and also a template you will use for your appeal letter. The subject is "Appeal Directions Student ID#"
+
+Are you able to access your email to verify you received it?
+
+If yes, review the email with the prospective student. Otherwise, have the student take notes as you explain the steps.
+
+The first half of the email gives some general directions as well as answers to frequently asked questions about how the appeal process works.
+
+The second half of the email has a template with five questions listed. Let's review those so you have a better idea of what the Appeals Board is looking for from you in your letter.
+
+Question 1 is your state of residence.
+
+Question 2 is asking if you will return to the same program.
+
+Question 3 is asking for a detailed explanation of the unforeseen and/or serious in nature barriers or problems that caused the lack of academic success.  Based on what you have shared with me, it sounds like the (recap what student stated was their reason for withdrawing).
+
+Is that all accurate?
+
+You should also include the date(s) this happened so the Appeals Board knows this was while you were in school.
+
+The Appeals Board would also like to know how your situation prevented you from being able to focus on your studies. You should include as many details as possible about your situation at the time of the decrease in academic performance.
+
+How would you answer that question?
+
+Advise on any gaps in timeline or if the prospective student's answer is not clear, including their academic history and any specific courses or grades that could have led to their SAP Status.
+
+Great, include that in your Appeal Letter as well.
+
+Question 3 also asks if you have any additional documentation to support your circumstances or that can validate the date ranges (state date range beginning to end date range). This is not a requirement, but this documentation can help support your Appeal Letter.
+
+Question 4 asks how this will no longer affect you from moving forward academically. How did you overcome these obstacles and what puts you in a better position to be able to focus on your studies again?
+
+Advise if prospective student's answer is not clear.
+
+Good, you will want to share that; the Appeals Board needs to know this will no longer be an obstacle for you.
+
+Question 5 asks you to briefly state your reasoning for attending school and why you feel you should be reinstated. Tell them why getting this degree is important to you and share one or two things about yourself that will let them know you are serious about pursuing your studies again.
+
+Once you have completed your letter, send it to me so we can review it together before sending it to the Appeals Board.
+
+I can help guide you through this process to ensure you have included all of the necessary information in your appeal. Please take time when writing your appeal and follow the instructions provided.
+
+Once submitted, you will receive an email with a determination from the Appeals Board and I will also call you to notify you of the decision.
+
+#EXEND
+
+Thanks for sharing a little bit about your situation. I'm proud of you for taking the first step. From here on we'll be setting appointments so I can help you with the next steps to prepare for school. I'm here to walk you through the process and make sure you are comfortable navigating your classroom and you're prepared to begin classes.
+
+I can give you a call back to walk through what will happen next.
+
+I can call you at ____or ____ time on (day), which works best for you?
+
+#RENTEND
+
+#H: Wrap-Up
+
+This wraps up our discussion. Great work today!
+
+Do you have any other questions for me regarding what you need to do next?
+
+Exchange Contact Information
+
+Thanks again, and have a great day.
+
+#H: End Call
+
+▲▲▲▲▲▲▲▲▲▲▲#MAINEND ▲▲▲▲▲▲▲▲▲▲▲
+
+▼▼▼▼▼▼▼▼#FAFSASTART:▼▼▼▼▼▼▼▼
+
+#H:FSAID Steps
+
+I’ll walk you through the next steps to get started on the FAFSA. Are you by your computer now?
+
+#EX:
+
+If the student does not have a Student Aid Account (FSA ID) ▼
+
+You will need to create a Student Aid Account (FSA ID) in order to sign into your Free Application for Federal Student Aid, commonly referred to as the FAFSA. Have you created an account yet?
+
+If not, let’s do that now. You can go to studentaid.gov to get started.
+
+Walk the student through registering for their FSA ID. For additional assistance, use the FSA ID Guide.
+
+#EXEND
+
+#H:FAFSA
+
+Today, I want to help you get started on your FAFSA, which is the Free Application for Federal Student Aid, and assist you with any questions you may have. As I mentioned before, this document must be completed to determine your eligibility for Federal Student Aid. This is a critical step to starting school if you plan to use federal funding. Once complete, our Financial Aid team can create a customized financial aid estimate for you.
+
+We discussed some of the resources you will need to complete the FAFSA. Let’s recap the things you will need.
+
+You will need the email with your FSA ID, so that you can access and sign the FAFSA electronically.
+
+You will need your Social Security number.
+
+You will need your current email address.
+
+You will also need your federal income tax return, W-2’s, and any other records of income earned.
+
+If you don’t have your tax information paperwork handy, the FAFSA contains an IRS Data Retrieval Tool, which may allow you to transfer your federal tax return information directly into your FAFSA. If you are not eligible to use the tool, you can just add your tax information into the FAFSA yourself. If you are a dependent student, then you will also need most of the above information for your parents as well.
+
+If the student does not have their tax information, they can first attempt the IRS Data Retrieval Tool, then call the IRS at (800) 829-1040, or order online at irs.gov/Individuals/Get-Transcript.
+
+You will also need our school code for the FAFSA, which is 014720.
+
+Last, if you are not a U.S. citizen, you’ll also need your Alien Registration Number.
+
+Do you have all of the resources I’ve just mentioned?
+
+If the student says that they do not have one or more of these resources, help the student develop a plan to get or request the necessary resources before moving on.
+
+Now that you have the resources you will need, let’s log into the FAFSA at studentaid.gov. I will help to guide you through getting started.
+
+Once the student is logged onto the site, use the FAFSA Guide to help the student navigate the site and use the FAFSA FAQ to answer any questions.
+
+#EX:
+
+If this is the first time the student has completed a FAFSA ▼
+
+Select Start a New FAFSA.
+
+On the Login page select to “Enter your FSA ID”, then enter the email address and password you used to register for your FSA ID, and click next.
+
+On the Get Started page, select the appropriate FAFSA year, and click next.
+
+Now you will create your “Save Key”. This is a temporary password you can use to log back into the FAFSA before submitting it. If you are a dependent student, for Federal Student Aid purposes, you can share this temporary password with your parents, so that all parties can have access to the form. Please note that this is separate from your FSA ID. Your FSA ID should not be shared with anyone.
+
+On the Introduction Page you will see frequently asked questions. You can use any of these links and you can also ask me any questions that you have about the application. Clicking next will take you to the next page.
+
+Let me take a moment give and you a high-level overview of how to navigate through the rest of the FAFSA. At the top, you will see a Navigation Bar. These are the sections of the FAFSA you will need to complete, starting with Student Demographics, where you will enter your personal information.
+
+The next section is School Selection. Here you can enter our school code, which is 014720. Entering this will allow your FAFSA information to be sent directly to AIU.
+
+In the Dependency Status section, you will answer a series of questions that will determine your dependency status as it relates to federal funding. Your answers in this section will determine whether or not you need to fill out information in the Parent Demographics section.
+
+If it is necessary for you to complete the Parent Demographics section, you will be asked specific information about your parents. You will need their assistance to complete this section.
+
+The Financial Information section is where you can attempt to upload your tax information directly into the FAFSA using the IRS Data Retrieval Tool. You will need your FSA ID to access the IRS Site from the FAFSA Site. You MUST complete the address information exactly how you filed the information on your taxes. For example; if you abbreviated “road” as “R-D” on your taxes, then it must be abbreviated the same way when populating the information on the IRS website.  Only when the information matches exactly, will the taxes link. If you are unable to upload your taxes directly, you can still enter your tax information manually in this section of the FAFSA.
+
+In the Sign and Submit section, you will use your FSA ID to sign your FAFSA, and click “Sign”. Once signed, you can submit your FAFSA by clicking “Submit My FAFSA Now” to send your application to the Department of Education for processing.
+
+Submitting the FAFSA will take you to the Confirmation Page and you will also receive an email stating that your FAFSA has been submitted. If you did not provide an email address in your application, print a copy of the confirmation page for your records.
+
+Another important note as you begin working through each question, take a look at the Help and Hints box on the right side of your screen. This information will change with every question in the FAFSA and will provide details about how to answer based on your situation. It can be a very useful tool as you work on your FAFSA.
+
+#EXEND
+
+Do you have any questions I can answer for you right now?
+
+Pause. Allow student to respond. Listen for questions or concerns.
+
+Since you are logged in, please finish this now. Don’t hesitate to call me if you have any questions, and we can make sure you get the assistance that you need.
+
+▲▲▲▲▲▲▲▲▲▲▲#FAFSAEND▲▲▲▲▲▲▲▲▲▲▲
+
+▼▼▼▼▼▼▼▼#FEATURESSTART:▼▼▼▼▼▼▼▼
+
+#H: Based on the interview, expand the features you wish to share.
+
+#FEAT:
+
+Regional Accreditation
+
+AIU is regionally accredited by the Higher Learning Commission. HLC is an independent corporation founded in 1895 and is recognized by the US Department of Education.
+
+Accreditation provides educational institutions with an objectively recognized standard of quality to which they must adhere.
+
+#FEND
+
+#FEAT:
+
+Programmatic Accreditation & Program Details
+
+All programs from our School of Business are programmatically accredited by the Accreditation Council for Business Schools and Programs (ACBSP)
+
+Program Details
+
+#EX:
+
+BBA & MBA Human Resource Management ▼
+
+Our Business Administration programs with a specialization in Human Resource Management aligns with SHRM’s (The Society for Human Resource Management) HR Curriculum Guidebook and Templates.
+
+#EXEND
+
+#EX:
+
+Bachelor Science Information Technology ▼
+
+This program is designed to explore content related to the A+, Network+, and Security+ certification exams offered by CompTIA.
+
+CompTIA certifications are industry recognized and sought after credentials within the IT industry.
+
+AIU’s programs are not designed to provide specific exam preparation, study materials, or cover the certification exam’s questions in any detail.
+
+For more information on CompTia exam preparation, please visit: certification.comptia.org/Training
+
+#EXEND
+
+#MAS:
+
+American InterContinental University is a member in good standing of the Association for Advancing Quality in Educator Preparation (AAQEP). The Master of Education program has been awarded full accreditation by AAQEP through June 30, 2026.
+
+#MASEND
+
+#FEND
+
+#FEAT:
+
+Intellipath
+
+Intellipath is our adaptive online learning platform.
+
+It determines what you already know and concentrates on what you need to learn.
+
+Professors have real-time knowledge on how each student is progressing.
+
+#FEND
+
+#FEAT:
+
+Digital Course Materials (M.U.S.E.)
+
+We provide digital course materials in a variety of formats.
+
+The different formats allow you to review some course materials in written, audio, or video formats.
+
+Some course materials are interactive, and might have you answer questions or try practice exercises.
+
+#FEND
+
+#MASHIDE:
+
+#FEAT:
+
+Masters Edge
+
+If you're interested in one of our business degrees, then our Master's Edge program allows you to take 2 master's courses while still in your bachelor's program.
+
+This might allow you to save up to 25% on the tuition of your master's degree as long as you meet all of the program requirements.
+
+Your student advisor will discuss the details further.
+
+#FEND
+
+#MASHIDEEND
+
+#FEAT:
+
+Library & Learning Center
+
+AIU provides our students with access to an online library.
+
+The library allows you to access reference materials and research for your assignments 24/7.
+
+The AIU Learning Center allows access to Learning Labs, and tutoring services.
+
+The Labs function like classes; they cover different subjects and even offer practice assignments.
+
+#FEND
+
+ 
+
+ 
+
+ 
+
+▲▲▲▲▲▲▲▲▲▲▲#FEATURESEND▲▲▲▲▲▲▲▲▲▲▲
